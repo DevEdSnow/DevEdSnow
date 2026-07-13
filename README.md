@@ -19,17 +19,22 @@ Here are some ideas to get you started:
 # 👾 root@github:~#
 
 ```bash
-$ whoami
-GhostByte
+┌──(root㉿github)-[~]
+└─$ whoami
 
-$ cat perfil.txt
-Alias: GhostByte
-Rol: Hacker Ético
-Estado: En línea
-Objetivo: Aprender. Investigar. Proteger.
+DevSnow
+
+└─$ cat perfil.txt
+
+Alias      : DevSnow
+Rol        : Hacker Ético
+Estado     : Activo
+Objetivo   : Aprender • Crear • Proteger
 ```
 
-- 💻 Explorando nuevas tecnologías.
-- 🛡️ Ciberseguridad y Desarrollo.
-- 🌱 Aprendiendo todos los días.
-- ⚡ "La curiosidad es mi mejor herramienta."
+- 💻 Desarrollando herramientas y proyectos.
+- 🛡️ Aprendiendo Ciberseguridad.
+- 🐧 Amante de Linux.
+- ⚙️ Siempre explorando nuevas tecnologías.
+
+> `Hackea el código, no a las personas.`
