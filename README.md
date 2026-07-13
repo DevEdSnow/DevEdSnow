@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👾 root@github:~#
+#  root@github:~#
 
 ```bash
 ┌──(root㉿github)-[~]
