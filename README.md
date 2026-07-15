@@ -38,3 +38,47 @@ Objetivo   : Aprender • Crear • Proteger
 - ⚙️ Siempre explorando nuevas tecnologías.
 
 > `Hackea el código, no a las personas.`
+
+
+---
+
+#  Actividad
+
+<div align="center">
+
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=3536">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=836"/>
+</a>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=3873">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=335"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaireyesp&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp&theme=vue&cache_seconds=370" />
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=2537"/>
+
+</div>
+
+---
+
+#  Logros
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact&cache_seconds=2837"/>
+
+</div>
