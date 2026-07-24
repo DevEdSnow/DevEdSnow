@@ -51,7 +51,7 @@ Objetivo   : Aprender • Crear • Proteger
 </a>
 -->
 <a href="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=395">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=395"/>
+  <img width="700" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=395"/>
 </a>
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=38">
