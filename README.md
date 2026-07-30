@@ -82,7 +82,7 @@ Objetivo   : Aprender • Crear • Proteger
 
 #  Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=isairey&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=isaireyesp&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
