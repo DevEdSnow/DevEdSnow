@@ -82,6 +82,8 @@ Objetivo   : Aprender • Crear • Proteger
 
 #  Logros
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=isairey&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevEdSnow&theme=github-compact&cache_seconds=5857"/>
