@@ -50,12 +50,12 @@ Objetivo   : Aprender • Crear • Proteger
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&theme=default&hide_border=true&cache_seconds=399"/>
 </a>
 -->
-<a href="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=3556">
-  <img width="300" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=3656"/>
+<a href="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=356">
+  <img width="300" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=366"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=598">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=587"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=5998">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=5897"/>
 </a>
 
 </div>
@@ -65,7 +65,7 @@ Objetivo   : Aprender • Crear • Proteger
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevEdSnow&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevEdSnow&theme=vue&cache_seconds=359" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevEdSnow&theme=vue&cache_seconds=3859" />
 
 </p>
 
@@ -73,7 +73,7 @@ Objetivo   : Aprender • Crear • Proteger
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DevEdSnow&theme=default&hide_border=true&cache_seconds=298"/>
+<img src="https://streak-stats.demolab.com?user=DevEdSnow&theme=default&hide_border=true&cache_seconds=2988"/>
 
 </div>
 
@@ -86,6 +86,6 @@ Objetivo   : Aprender • Crear • Proteger
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevEdSnow&theme=github-compact&cache_seconds=587"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevEdSnow&theme=github-compact&cache_seconds=5887"/>
 
 </div>
