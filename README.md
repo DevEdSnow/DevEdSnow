@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <!-- Estilo hacker matrix -->
 <img src="https://img.shields.io/badge/Code-Matrix%20Style-green?style=for-the-badge&logo=hackaday&logoColor=white" />
 
-
+<div align="center">
 <!-- Contador de visitas -->
 <img src="https://komarev.com/ghpvc/?username=DevEdSnow&label=Profile%20views&color=0e75b6&style=flat" alt="DevEdSnow" />
-
+</div>
 
 <!-- GIF animado estilo Matrix -->
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
