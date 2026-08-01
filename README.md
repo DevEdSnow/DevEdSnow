@@ -30,7 +30,9 @@ Alias      : DevSnow
 Rol        : Hacker Ético
 Estado     : Activo
 Objetivo   : Aprender • Crear • Proteger
+
 ```
+<img src="https://komarev.com/ghpvc/?username=DevEdSnow&label=Profile%20views&color=0e75b6&style=flat" alt="DevEdSnow" />
 
 - 💻 Desarrollando herramientas y proyectos.
 - 🛡️ Aprendiendo Ciberseguridad.
