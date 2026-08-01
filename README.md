@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Banner estilo hacker -->
 <img src="https://img.shields.io/badge/Hacker-No%20Ético-red?style=for-the-badge&logo=probot&logoColor=white" />
 
-<!-- Badges de lenguajes -->
+<!-- Badges de lenguajes y skills -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
@@ -36,10 +36,20 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
+<!-- Extra Badges estilo hacker -->
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal-ZSH-green?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Exploit%20Finder-black?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+
 <!-- Estilo hacker matrix -->
 <img src="https://img.shields.io/badge/Code-Matrix%20Style-green?style=for-the-badge&logo=hackaday&logoColor=white" />
 
+<!-- GIF animado estilo Matrix -->
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
+
 </div>
+
 
 #  root@github:~#
 
