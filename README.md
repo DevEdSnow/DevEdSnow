@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+ 
 <img src="https://komarev.com/ghpvc/?username=DevEdSnow&label=Profile%20views&color=0e75b6&style=flat" alt="DevEdSnow" />
+
+</div>
 #  root@github:~#
 
 ```bash
