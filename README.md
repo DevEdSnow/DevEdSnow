@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=DevEdSnow&label=Profile%20views&color=0e75b6&style=flat" alt="DevEdSnow" />
+
 
 <!-- Banner estilo hacker -->
 <img src="https://img.shields.io/badge/Hacker-No%20Ético-red?style=for-the-badge&logo=probot&logoColor=white" />
@@ -44,6 +43,11 @@ Here are some ideas to get you started:
 
 <!-- Estilo hacker matrix -->
 <img src="https://img.shields.io/badge/Code-Matrix%20Style-green?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+
+<!-- Contador de visitas -->
+<img src="https://komarev.com/ghpvc/?username=DevEdSnow&label=Profile%20views&color=0e75b6&style=flat" alt="DevEdSnow" />
+
 
 <!-- GIF animado estilo Matrix -->
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
