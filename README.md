@@ -102,7 +102,7 @@ Objetivo   : Aprender • Crear • Proteger
 </a>
 -->
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=598">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=697"/>
+  <img height="130em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=697"/>
 </a>
 
 </div>
