@@ -93,14 +93,14 @@ Objetivo   : Aprender • Crear • Proteger
 
 
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=328" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevEdSnow&show_icons=true&theme=default&hide_border=true&cache_seconds=328" />
 </p>
 
-
+<!--
 <a href="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=356">
   <img width="300" src="https://github-stats-extended.vercel.app/api?username=DevEdSnow&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=367"/>
 </a>
-
+-->
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=598">
   <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevEdSnow&layout=compact&theme=default&hide_border=true&cache_seconds=697"/>
 </a>
