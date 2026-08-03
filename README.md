@@ -93,7 +93,7 @@ Objetivo   : Aprender • Crear • Proteger
 
 
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevEdSnow&show_icons=true&theme=default&hide_border=true&cache_seconds=328" />
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevEdSnow&show_icons=true&theme=default&hide_border=true&cache_seconds=328" />
 </p>
 
 <!--
