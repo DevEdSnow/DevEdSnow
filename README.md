@@ -120,7 +120,7 @@ Objetivo   : Aprender • Crear • Proteger
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DevEdSnow&theme=default&hide_border=true&cache_seconds=22348"/>
+<img src="https://streak-stats.demolab.com?user=DevEdSnow&theme=default&hide_border=true&cache_seconds=228"/>
 
 </div>
 
